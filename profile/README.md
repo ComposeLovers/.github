@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hello everyone,
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+As a group of young developers, we are creating projects using the Kotlin language. We always use the latest technologies. If you see anything you don't like or think could be improved, don't hesitate to open a PR :) If you'd like to support us and enjoy learning on this journey, you can reach us at:
+
+<a href="mailto:adematicis41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adematicis41@gmail.com-blue?style=flat&logo=gmail"></a>
